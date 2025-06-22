@@ -55,7 +55,10 @@ Foi proposto como exercício prático para aplicar **automatização com Grunt**
 
 ## 💻 Demonstração
 
-💡 *Este projeto foi desenvolvido com foco no uso do Grunt para build e organização, mas também está disponível para visualização online.*
+💡 Este projeto foi desenvolvido com foco no uso do Grunt para build e organização, mas também está disponível para visualização online.
+
+🌐 Você pode acessar a versão online do projeto neste link:  
+[https://exercicio-grunt-lime.vercel.app/](https://exercicio-grunt-lime.vercel.app/)
 
 ✅ Para rodar localmente:
 
