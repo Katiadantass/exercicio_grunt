@@ -64,3 +64,8 @@ npm install
 npm run grunt       # Para rodar em modo desenvolvimento (watch)
 
 npm run build       # Para gerar os arquivos finais em dist/
+
+---
+
+## 🙋 Autora  
+[Katiadantass](https://github.com/Katiadantass)
